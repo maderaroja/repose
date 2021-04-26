@@ -1,2 +1,3 @@
 # repose
-Here are 3 projects I completed. One each in Python, Machine Learning, and Data Visualization
+Here are 2 projects I completed. One each in Python and Machine Learning.
+I'm currently working on a Data Visualization project. 
